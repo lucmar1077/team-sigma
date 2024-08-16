@@ -7,3 +7,10 @@ header {
     height: 100px;
     background-color: blue;
 }
+nav {
+    
+}
+nav ul {
+    padding: 0px;
+    list-style-type: none;
+}
