@@ -15,10 +15,9 @@ nav {
     height: 100%;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 nav ul {
-    padding: 0px;
     list-style-type: none;
 }
 nav ul li {
