@@ -1,6 +1,8 @@
 * {
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
 }
 header {
     width: 100%;
@@ -13,7 +15,11 @@ nav {
 nav ul {
     padding: 0px;
     list-style-type: none;
+    display: flex;
 }
 nav ul li {
-    display: inline;
+    display: inline-block;
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
 }
