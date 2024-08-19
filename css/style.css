@@ -14,3 +14,6 @@ nav ul {
     padding: 0px;
     list-style-type: none;
 }
+nav ul li {
+    display: inline;
+}
