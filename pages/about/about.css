@@ -4,22 +4,22 @@
     box-sizing: border-box;
     font-family: Helvetica, sans-serif;
 }
-.aboutheader {
+header {
     width: 100%;
     height: 100px;
     background-color: #159A9C;
 }
-.aboutnav {
+nav {
     width: 100%;
     height: 100%;
     display: flex;
     align-items: center;
     justify-content: space-around;
 }
-.aboutnav ul {
+nav ul {
     list-style-type: none;
 }
-.aboutnav ul li {
+nav ul li {
     display: inline-block;
     font-size: 24px;
     color: white;
